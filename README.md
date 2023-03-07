@@ -1,5 +1,6 @@
 # TrelloClone
 
+Clone de trello (angular, tailwindcss, cdk) 
 ![image](https://user-images.githubusercontent.com/72038716/223487890-13f92681-11d5-4441-939e-67ae7f680e80.png)
 
 
